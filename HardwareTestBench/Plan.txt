@@ -1,0 +1,10 @@
+DONE:   Server on esp8266
+        Communication between esp8266 and esp 32
+        Communication between esp8266 to esp32, then upload the data to web
+
+        Software to LCD, display esp32
+        Qt to LCD, display esp32
+        Qt to esp32 to serial
+
+        Qt to esp32 to esp8266 to web server
+        {Aggregator} -> {server} -> {Cloud} -> {Application}
