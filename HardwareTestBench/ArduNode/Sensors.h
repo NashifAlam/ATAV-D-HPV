@@ -26,6 +26,7 @@ int readSensorDataTyre(int a)
     return n;
 }
 
+//Function to read brake data 
 int readSensorDataBrake(int a)
 {
 
