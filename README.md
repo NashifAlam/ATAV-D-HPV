@@ -127,7 +127,7 @@ To get a local copy up and running follow these simple example steps.
    git clone https://github.com/NashifAlam/ATAV-D-HPV.git
    ```
 2. Flash the microcontrollers with their respective codes 
-<a href="">(_Refer package documentions_)</a>
+<a href="">(_Refer package documentations_)</a>
 
 
 3. Enter Serial monitor to view the communication
