@@ -8,3 +8,4 @@ DONE:   Server on esp8266
 
         Qt to esp32 to esp8266 to web server
         {Aggregator} -> {server} -> {Cloud} -> {Application}
+        ESP32 --> Node --> AWS --> Kotlin
