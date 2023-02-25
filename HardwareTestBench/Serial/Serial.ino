@@ -8,7 +8,7 @@ void loop() {
   if (Serial.available()) 
   { 
     String command = Serial.readStringUntil('\n'); 
-    Serial.println("Message broadcast:");
+    Serial.println("String Values");
     Serial.println(command);
   }
 }
